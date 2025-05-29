@@ -1,5 +1,8 @@
-<h2 align="center">LƯU Ý</h2>
-<p align="center">Các lệnh Toggle là lệnh tắt bật luân phiên</p>
+<h1 align="center">CÁC LỆNH CONSOLE HỮU ÍCH</h1>
+
+<h2>LƯU Ý</h2>
+
+> - Các lệnh Toggle là lệnh tắt bật luân phiên
 <hr>
 
 ## Lệnh cần thiết
