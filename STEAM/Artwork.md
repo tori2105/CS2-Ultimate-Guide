@@ -6,7 +6,7 @@
 > - Cứ mỗi 10 level Steam thì sẽ được 1 showcase
 > - Artwork showcase và Screenshot showcase mặc định chỉ có 1 cái, nếu muôn tăng thêm thì có thể mua ở Point Shop trên Steam
 
-## LỆNH UP ARTWORK DÀI
+## THAO TÁC
 1. Mở trình duyệt, đăng nhập Steam
 2. Mở trang cá nhân, chọn Artwork
 3. Bấm Upload Artwork, chọn Not game specific
