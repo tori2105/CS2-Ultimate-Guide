@@ -13,7 +13,8 @@
 ## Quản lí tài khoản
 1.   **Bảo mật tài khoản**
 2.   <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**</a>
-3.   **Steam Guard**
+3.   <a href="https://help.steampowered.com/vi/faqs/view/6891-E071-C9D9-0134">**Steam Guard**</a>
+4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/Recovery.md">**Khôi phục tài khoản**</a>
 ## Công cụ hỗ trợ tài khoản
 ### Lưu ý
 > - Mình không nhận tài trợ/quảng cáo/lợi nhuận từ việc phổ biến các công cụ hỗ trợ
@@ -22,11 +23,10 @@
 2.   **CSFloat** | <a href="https://chromewebstore.google.com/detail/csfloat-market-checker/jjicbefpemnphinccgikpdaagjebbnhg">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/csgofloat/">Firefox</a>
 3.   **SteamDB** | <a href="https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/steam-database/">Firefox</a>
 ## Thủ thuật
-1.   **Bảo mật tài khoản**
-2.   **Artwork showcase/Screenshot showcase**
-3.   **Đặt biệt danh cho người lạ**
-4.   **Đặt dẫn link gọn gàng trên profile**
-6.   **Avatar trắng**
+1.   **Artwork showcase/Screenshot showcase**
+2.   **Đặt biệt danh cho người lạ**
+3.   **Đặt dẫn link gọn gàng trên profile**
+4.   **Avatar trắng**
 ## Mua bán tài khoản
 ### Lưu ý
 > - Mình không khuyến khích/ủng hộ việc mua bán tài khoản Steam
