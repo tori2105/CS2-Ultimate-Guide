@@ -15,18 +15,18 @@
 2.   <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**</a>
 3.   <a href="https://help.steampowered.com/vi/faqs/view/6891-E071-C9D9-0134">**Steam Guard**</a>
 4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/Recovery.md">**Khôi phục tài khoản**</a>
-## Công cụ hỗ trợ tài khoản
+## Extension hỗ trợ, quản lí
 ### Lưu ý
-> - Mình không nhận tài trợ/quảng cáo/lợi nhuận từ việc phổ biến các công cụ hỗ trợ
-> - Các trình duyệt trên iOS sử dụng WebKit nên sẽ không hỗ trợ
+> - Mình không nhận tài trợ/quảng cáo/lợi nhuận từ việc phổ biến các extension
+> - Các trình duyệt trên iOS sẽ không được hỗ trợ (ngoại trừ Orion Browser, nhưng dùng extension trên này cũng phế)
 1.   **Steam Inventory Helper** | <a href="https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl">Chromium</a>
 2.   **CSFloat** | <a href="https://chromewebstore.google.com/detail/csfloat-market-checker/jjicbefpemnphinccgikpdaagjebbnhg">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/csgofloat/">Firefox</a>
 3.   **SteamDB** | <a href="https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/steam-database/">Firefox</a>
 ## Thủ thuật
-1.   **Artwork showcase/Screenshot showcase**
-2.   **Đặt biệt danh cho người lạ**
-3.   **Đặt dẫn link gọn gàng trên profile**
-4.   **Avatar trắng**
+1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Artwork.md">**Artwork dài/Screenshot showcase tuỳ ý**</a>
+2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Alias.md">**Đặt biệt danh cho người lạ**</a>
+3.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Shortlink.md">**Đặt dẫn link gọn gàng trên profile**</a>
+4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/InviAvatar.md">**Avatar trắng**</a>
 ## Mua bán tài khoản
 ### Lưu ý
 > - Mình không khuyến khích/ủng hộ việc mua bán tài khoản Steam
@@ -37,6 +37,6 @@
 2.   **Lưu ý khi giao dịch mua bán tài khoản**
 ## Mua bán vật phẩm CS2
 1.   **Tổng quan về mua bán vật phẩm CS2**
-2.   **Kĩ năng tránh lừa đảo**
-2.   **Danh sách trader tin cậy** 
-3. 
+2.   **Các sàn mua bán vật phẩm CS2**
+3.   **Kĩ năng tránh lừa đảo**
+4.   **Danh sách trader tin cậy** (ai cũng uy tín cho đến lúc scam) 
