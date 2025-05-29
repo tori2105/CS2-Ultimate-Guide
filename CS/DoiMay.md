@@ -1,5 +1,9 @@
-<h2 align="center">LƯU Ý</h2>
-<p align="center">Cách này chỉ áp dụng được với tình trạng máy đang dùng còn kết nối mạng và vẫn mở được Windows Explorer. Nếu máy bị màn hình xanh hoặc đang chơi mất điện thì có thể bỏ qua vì đọc xong cũng chẳng được ích gì.</p>
+<h1 align="center">HƯỚNG DẪN ĐỔI MÁY Ở NET</h1>
+
+<h2>LƯU Ý</h2>
+
+> - Cách này chỉ áp dụng được với tình trạng máy đang dùng còn kết nối mạng và vẫn mở được Windows Explorer
+> - Nếu máy bị màn hình xanh hoặc đang chơi mất điện thì có thể bỏ qua vì đọc xong cũng chẳng được ích gì
 <hr>
 
 ### Thao tác
