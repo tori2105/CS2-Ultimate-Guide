@@ -4,7 +4,7 @@
 # ⭐ CS2
 ## Cần thiết
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Console.md">**Các lệnh console hữu ích**</a>
-2.   **Các map luyện tập**
+2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/TrainingMap.md">**Các map luyện tập**</a>
 ## Thủ thuật
 1.   **Theo dõi tiến trình chơi game**
 2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/VACLiveMatch.md">**Xem trận đã huỷ do VAC Live**</a>
@@ -12,7 +12,7 @@
 # ⭐ STEAM
 ## Quản lí tài khoản
 1.   **Bảo mật tài khoản**
-2.   **Kiểm tra lịch sử đăng nhập**
+2.   <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**</a>
 3.   **Steam Guard**
 ## Công cụ hỗ trợ tài khoản
 ### Lưu ý
