@@ -1,6 +1,8 @@
 <p align="center"><img width="200px" height="auto" src="https://raw.githubusercontent.com/tori2105/iOS-App-Scripts/refs/heads/main/resources/bongo.png"></p>
 <h1 align="center">CS2 ULTIMATE GUIDE | CẨM NANG TUYỂN TẬP CS2</h1>
 
+> Guide đang trong quá trình phát triển, rất mong nhận được thêm đóng góp của anh em
+
 # ⭐ CS2
 ## Cần thiết
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Console.md">**Các lệnh console hữu ích**</a>
