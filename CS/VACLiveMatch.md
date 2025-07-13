@@ -1,4 +1,4 @@
-<h1 align="center">XEM LỊCH SỬ TRẬN ĐẤU BỊ HUỶ DO VAC LIVE</h1>
+<h1 align="center"><img width="40px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Counter-Strike_2_29.webp"><br>XEM LỊCH SỬ TRẬN ĐẤU BỊ HUỶ DO VAC LIVE <br>XEM LỊCH SỬ TRẬN ĐẤU NONPRIME</h1>
 
 <h2>LƯU Ý</h2>
 
