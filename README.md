@@ -22,12 +22,22 @@
 2.   <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**</a>
 3.   <a href="https://help.steampowered.com/vi/faqs/view/6891-E071-C9D9-0134">**Steam Guard**</a>
 4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/Recovery.md">**Khôi phục tài khoản**</a>
+5.   <a href="https://help.steampowered.com/en/accountdata/ThirdPartyLogins">**Lịch sử đăng nhập website bên thứ 3**</a>
 ## Extension hỗ trợ, quản lí
 ### Lưu ý
 > Các trình duyệt trên iOS sẽ không được hỗ trợ (ngoại trừ Orion Browser, nhưng dùng extension trên này cũng phế)
+- Vật phẩm, inventory
 1.   **Steam Inventory Helper** | <a href="https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl">Chromium</a>
 2.   **CSFloat** | <a href="https://chromewebstore.google.com/detail/csfloat-market-checker/jjicbefpemnphinccgikpdaagjebbnhg">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/csgofloat/">Firefox</a>
-3.   **SteamDB** | <a href="https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/steam-database/">Firefox</a>
+- Store, profile
+1.   **SteamDB** | <a href="https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/steam-database/">Firefox</a>
+2.   **Ban Checker for Steam** | <a href="https://chromewebstore.google.com/detail/ban-checker-for-steam/canbadmphamemnmdfngmcabnjmjgaiki">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/ban-checker/">Firefox</a>
+- Faceit
+1.   **Repeek** | <a href="https://chrome.google.com/webstore/detail/repeek/mokknliiomknodkdmpcellamkopbdmao">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/repeek/">Firefox</a>
+> - Theo dõi elo, stat cá nhân trên Faceit
+> - Lịch sử đấu với người chơi cụ thể
+> - Hiển thị quốc gia, stat trong 30 trận gần đây của các người chơi trong lobby
+
 ## Thủ thuật
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Artwork.md">**Artwork dài/Screenshot showcase tuỳ ý**</a>
 2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Alias.md">**Đặt biệt danh cho người lạ**</a>
