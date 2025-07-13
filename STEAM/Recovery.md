@@ -1,4 +1,4 @@
-<h1 align="center">HƯỚNG DẪN KHÔI PHỤC TÀI KHOẢN STEAM ĐÃ BỊ MẤT/HACK</h1>
+<h1 align="center"><img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> HƯỚNG DẪN KHÔI PHỤC TÀI KHOẢN STEAM ĐÃ BỊ MẤT/HACK</h1>
 
 <h2>LƯU Ý</h2>
 
