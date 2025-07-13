@@ -1,4 +1,4 @@
-<h1 align="center">THEO DÕI TIẾN TRÌNH CHƠI GAME</h1>
+<h1 align="center"><img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Counter-Strike_2_29.webp"> THEO DÕI TIẾN TRÌNH CHƠI GAME</h1>
 
 <h2>LƯU Ý</h2>
 
