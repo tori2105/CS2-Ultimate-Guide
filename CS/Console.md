@@ -2,7 +2,7 @@
 
 <h2>LƯU Ý</h2>
 
-> - Các lệnh Toggle là lệnh tắt bật luân phiên
+> Các lệnh Toggle là lệnh tắt bật luân phiên
 <hr>
 
 ## Lệnh cần thiết
