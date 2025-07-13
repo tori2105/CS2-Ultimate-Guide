@@ -1,4 +1,4 @@
-<h1 align="center">TỔNG QUAN VỀ MUA BÁN VẬT PHẨM CS2</h1>
+<h1 align="center"><img width="23px" filter="invert:100%" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/shopping-cart.png"> TỔNG QUAN VỀ MUA BÁN VẬT PHẨM CS2</h1>
 
 > - Đối với Steam Community Market, bạn cần kích hoạt Steam Guard mobile đủ 15 ngày, nạp và sử dụng code wallet 5$ trên tài khoản Steam
 > - Đối với các phương thức khác, bạn chỉ cần kích hoạt Steam Guard mobile đủ 15 ngày là được
