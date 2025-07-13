@@ -12,4 +12,4 @@ https://steamcommunity.com/my/gcpd/730/?tab=matchhistoryscrimmage
 ```
 
 ## Xem lại demo
-- Để xem demo, tải file demo về rồi giải nén lây file .dem rồi làm theo hướng dẫn tại [đây](https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/CustomDEM.md)
+- Để xem demo, tải file demo về, giải nén lấy file .dem rồi làm theo hướng dẫn tại [đây](https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/CustomDEM.md)
