@@ -1,4 +1,4 @@
-<h1 align="center">ARTWORK DÀI/SCREENSHOT SHOWCASE TUỲ Ý</h1>
+<h1 align="center"><img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> ARTWORK DÀI/SCREENSHOT SHOWCASE TỰ CHỌN</h1>
 
 <h2>LƯU Ý</h2>
 
@@ -25,8 +25,8 @@ document.getElementsByName("image_width")[0].value = 1000;document.getElementsBy
 6. Save and Continue
 
 ## LỆNH UP SCREENSHOT SHOWCASE TUỲ Ý
-> - Tương tự như upload artwork, cho đến đoạn code thì paste đoạn code sau
+> Tương tự như upload artwork, cho đến đoạn code thì paste đoạn code sau
 ```
 document.getElementsByName("file_type")[0].value = 5;
 ```
-> - Nếu muốn upload screenshot showcase dài thì paste thêm cả đoạn code trên Artwork dài
+> Nếu muốn upload screenshot showcase dài thì paste thêm cả đoạn code trên Artwork dài
