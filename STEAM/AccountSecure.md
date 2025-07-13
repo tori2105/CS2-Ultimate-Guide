@@ -1,4 +1,4 @@
-<h1 align="center">BẢO MẬT TÀI KHOẢN</h1>
+<h1 align="center"><img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> BẢO MẬT TÀI KHOẢN</h1>
 
 - Kiểm tra API Key tại [đây](https://steamcommunity.com/dev/apikey). Nếu API Key trống như trong ảnh thì có thể yên tâm giao dịch
 <img src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/APIKey.png">
