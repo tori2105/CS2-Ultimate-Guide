@@ -6,18 +6,20 @@
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Console.md">**Các lệnh console hữu ích**</a>
 2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/TrainingMap.md">**Các map luyện tập**</a>
 ## Thủ thuật
-1.   **Theo dõi tiến trình chơi game**
-2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/VACLiveMatch.md">**Xem trận đã huỷ do VAC Live**</a>
+1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Stat.md">**Theo dõi tiến trình chơi game**
+2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/VACLiveMatch.md">**Xem trận đã huỷ do VAC Live / Xem lịch sử trận đấu Non-Prime**</a>
 3.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/DoiMay.md">**Đổi máy ở net**</a>
+## Câu hỏi
+1.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Prime.md">**Khôi phục Prime sau khi tài khoản bị hack**
+2.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Banned.md">**Tôi đã bị ban**
 # ⭐ STEAM
 ## Quản lí tài khoản
-1.   **Bảo mật tài khoản**
+1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/AccountSecure.md">**Bảo mật tài khoản**
 2.   <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**</a>
 3.   <a href="https://help.steampowered.com/vi/faqs/view/6891-E071-C9D9-0134">**Steam Guard**</a>
 4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/Recovery.md">**Khôi phục tài khoản**</a>
 ## Extension hỗ trợ, quản lí
 ### Lưu ý
-> - Mình không nhận tài trợ/quảng cáo/lợi nhuận từ việc phổ biến các extension
 > - Các trình duyệt trên iOS sẽ không được hỗ trợ (ngoại trừ Orion Browser, nhưng dùng extension trên này cũng phế)
 1.   **Steam Inventory Helper** | <a href="https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl">Chromium</a>
 2.   **CSFloat** | <a href="https://chromewebstore.google.com/detail/csfloat-market-checker/jjicbefpemnphinccgikpdaagjebbnhg">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/csgofloat/">Firefox</a>
@@ -29,14 +31,13 @@
 4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/InviAvatar.md">**Avatar trắng**</a>
 ## Mua bán tài khoản
 ### Lưu ý
-> - Mình không khuyến khích/ủng hộ việc mua bán tài khoản Steam
-> - Việc mua bán tài khoản Steam vi phạm đến Điều khoản sử dụng
-> - Các trường hợp bị lừa đảo liên quan đến mua bán tài khoản Steam sẽ không được pháp luật hay Steam/Valve can thiệp để hỗ trợ
-> - Bạn quyết định tham gia vào việc mua bán tài khoản Steam đồng nghĩa với việc bạn chấp nhận rủi ro đi kèm
-1.   **Cảnh báo, rủi ro khi mua tài khoản**
-2.   **Lưu ý khi giao dịch mua bán tài khoản**
+1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/AccountTrans.md">**Cảnh báo, rủi ro, lưu ý khi mua tài khoản**
 ## Mua bán vật phẩm CS2
-1.   **Tổng quan về mua bán vật phẩm CS2**
-2.   **Các sàn mua bán vật phẩm CS2**
-3.   **Kĩ năng tránh lừa đảo**
-4.   **Danh sách trader tin cậy** (ai cũng uy tín cho đến lúc scam) 
+1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/SkinTradeSum.md">**Tổng quan về mua bán vật phẩm CS2**
+2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/SkinTradePlatform.md">**Các sàn mua bán vật phẩm CS2**
+3.   **Kĩ năng tránh lừa đảo** (dẫn link tại mình lười viết)
+-  https://vncs2.com/posts/480f3197-952e-425e-aa8e-ec7e71d6b8f9
+-  https://vncs2.com/posts/0b6a0d0a-3ff7-4edb-8c07-bb939d024597
+-  https://vncs2.com/posts/e441bd10-88ea-4ca2-afe5-9e61dc5e715c
+-  https://vncs2.com/posts/c8e20a43-dbbc-42bf-8fff-b60c6d5cc499
+5.   ~~**Danh sách trader tin cậy**~~ (ai cũng uy tín cho đến lúc scam) 
