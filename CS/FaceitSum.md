@@ -1,4 +1,4 @@
-<h1 align="center">FACEIT</h1>
+<h1 align="center"><img width="25px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/faceit.png"> FACEIT</h1>
 
 ## Faceit là gì
 - Faceit là nền tảng thi đấu cạnh tranh bên thứ 3, với hệ thống Anticheat cao cấp giúp giảm thiểu lượng người chơi gian lận trong trận đấu. Chưa dừng lại ở đó, Faceit còn tăng cường ngăn chặn các trường hợp smurf, booster, bắn nhiều tài khoản giúp việc thi đấu trở nên trung thực hơn
