@@ -38,7 +38,7 @@
 > - Hiển thị quốc gia, stat trong 30 trận gần đây của các người chơi trong lobby
 
 ## ⭐ Thủ thuật
-1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Artwork.md">**Artwork dài/Screenshot showcase tuỳ ý**</a>
+1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Artwork.md">**Artwork dài/Screenshot showcase tự chọn**</a>
 2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Alias.md">**Đặt biệt danh cho người lạ**</a>
 3.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Shortlink.md">**Đặt dẫn link gọn gàng trên profile**</a>
 4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/InviAvatar.md">**Avatar trắng**</a>
