@@ -1,5 +1,7 @@
 <h1 align="center">XEM REPLAY BẰNG FILE .DEM</h1>
 
+> - Cách này để xem các dạng demo tự quay, demo Faceit, demo trận Non-Prime,...
+
 1. Copy file .dem cần xem vào đường dẫn sau
 ```
 [THƯ MỤC CÀI GAME]\steamapps\common\Counter-Strike Global Offensive\game\csgo
