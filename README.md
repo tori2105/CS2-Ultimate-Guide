@@ -44,7 +44,6 @@
 3.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Shortlink.md">**Đặt dẫn link gọn gàng trên profile**</a>
 4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/InviAvatar.md">**Avatar trắng**</a>
 ## Mua bán tài khoản
-### Lưu ý
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/AccountTrans.md">**Cảnh báo, rủi ro, lưu ý khi mua tài khoản**
 ## Mua bán vật phẩm CS2
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/SkinTradeSum.md">**Tổng quan về mua bán vật phẩm CS2**
