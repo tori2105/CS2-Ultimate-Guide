@@ -18,6 +18,12 @@
 - Faceit không chấp nhận các hình thức tương tác trái phép với game, nên việc mod skin ở Faceit cũng sẽ dẫn đến ban vĩnh viễn
 - Một tài khoản Steam vĩnh viễn chỉ liên kết với một tài khoản Faceit, không thể thay đổi dưới bất kì hình thức nào
 
+## Extension hỗ trợ
+- **Repeek** | <a href="https://chrome.google.com/webstore/detail/repeek/mokknliiomknodkdmpcellamkopbdmao">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/repeek/">Firefox</a>
+> - Theo dõi elo, stat cá nhân trên Faceit
+> - Lịch sử đấu với người chơi cụ thể
+> - Hiển thị quốc gia, stat trong 30 trận gần đây của các người chơi trong lobby
+
 ## Các nền tảng tương tự Faceit
 - **[ESEA](https://play.esea.net/)** | ở khu vực Việt Nam nói riêng và Châu Á nói chung khá dead, không khuyến khích
 - **[B5 (Nội địa Trung)](https://www.b5csgo.plus/)** | cần thuê dịch vụ xác minh để chơi, khá rắc rối
