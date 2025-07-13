@@ -1,4 +1,4 @@
-<h1 align="center">TÔI ĐÃ BỊ BAN</h1>
+<h1 align="center"><img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Counter-Strike_2_29.webp"> TÔI ĐÃ BỊ BAN</h1>
 
 ## Đây có phải sai sót?
 - Việc bị ban nhầm là hoàn toàn có thể xảy ra. Trong quá khứ từng có đợt gỡ ban hàng loạt do ban nhầm
