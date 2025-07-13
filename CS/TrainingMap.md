@@ -1,4 +1,4 @@
-<h1 align="center">CÁC MAP LUYỆN TẬP CS2</h1>
+<h1 align="center"><img width="25px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Counter-Strike_2_29.webp"> CÁC MAP LUYỆN TẬP CS2</h1>
 
 ## MAP LUYỆN AIM
 1. <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3086023598">5e_aimhub</a>
