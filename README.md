@@ -24,7 +24,7 @@
 4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/Recovery.md">**Khôi phục tài khoản**</a>
 ## Extension hỗ trợ, quản lí
 ### Lưu ý
-> - Các trình duyệt trên iOS sẽ không được hỗ trợ (ngoại trừ Orion Browser, nhưng dùng extension trên này cũng phế)
+> Các trình duyệt trên iOS sẽ không được hỗ trợ (ngoại trừ Orion Browser, nhưng dùng extension trên này cũng phế)
 1.   **Steam Inventory Helper** | <a href="https://chromewebstore.google.com/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl">Chromium</a>
 2.   **CSFloat** | <a href="https://chromewebstore.google.com/detail/csfloat-market-checker/jjicbefpemnphinccgikpdaagjebbnhg">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/csgofloat/">Firefox</a>
 3.   **SteamDB** | <a href="https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/steam-database/">Firefox</a>
