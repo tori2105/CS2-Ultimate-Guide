@@ -1,4 +1,4 @@
-<h1 align="center">CÁC SÀN MUA BÁN VẬT PHẨM CS2</h1>
+<h1 align="center"><img width="23px" filter="invert:100%" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/shopping-cart.png"> CÁC SÀN MUA BÁN VẬT PHẨM CS2</h1>
 
 ## Steam Communtiy Market
 ```
@@ -9,7 +9,7 @@ https://steamcommunity.com/market/search?appid=730
 > - Tuy nhiên đồ trên này không được đa dạng và ưng ý như các sàn khác. Đồng thời người sẽ phải chịu nhiều thuế khi mua bán vật phẩm
 > - Sử dụng các extension **Steam Inventory Helper**, **CSFloat** để hỗ trợ việc mua bán và lựa chọn skin khi mua trên market
 ##  Group Facebook
-> - Danh sách các group Facebook mua bán vật phẩm CS2 tại Việt Nam. Hỗ trợ mua skin trực tiếp bằng tài khoản ngân hàng nội địa
+> Danh sách các group Facebook mua bán vật phẩm CS2 tại Việt Nam. Hỗ trợ mua skin trực tiếp bằng tài khoản ngân hàng nội địa
 - VN:CS2 Chợ dời
 ```
 https://web.facebook.com/groups/vncs2cd/
@@ -44,7 +44,7 @@ Lưu ý
 - Không khuyến khích sử dụng do giá đồ trên web khá đắt
 6.  [SkinsMonkey](http://skinsmonkey.com)
 ##  Các website/app Việt Nam
-> - Hỗ trợ mua skin trực tiếp bằng tài khoản ngân hàng nội địa
+>  Hỗ trợ mua skin trực tiếp bằng tài khoản ngân hàng nội địa
 1.  [vncs2.com](http://vncs2.com) | [Doraemon Store](https://web.facebook.com/DoraemonCSGO)
 2.  [Vnskins](http://vnskins.com)
 3.  [skins.vn](http://skins.vn)
