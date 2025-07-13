@@ -14,6 +14,7 @@
 ## Câu hỏi
 1.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Prime.md">**Khôi phục Prime sau khi tài khoản bị hack**
 2.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Banned.md">**Tôi đã bị ban**
+## [Faceit](https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitSum.md) (tổng hợp)
 # ⭐ STEAM
 ## Quản lí tài khoản
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/AccountSecure.md">**Bảo mật tài khoản**
