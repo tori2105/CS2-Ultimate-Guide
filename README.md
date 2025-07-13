@@ -11,6 +11,7 @@
 1.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Stat.md">**Theo dõi tiến trình chơi game**
 2.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/VACLiveMatch.md">**Xem trận đã huỷ do VAC Live / Xem lịch sử trận đấu Non-Prime**</a>
 3.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/DoiMay.md">**Đổi máy ở net**</a>
+4.   <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/CustomDEM.md">**Xem replay bằng file .dem**</a>
 ## Câu hỏi
 1.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Prime.md">**Khôi phục Prime sau khi tài khoản bị hack**
 2.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Banned.md">**Tôi đã bị ban**
