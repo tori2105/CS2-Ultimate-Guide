@@ -1,4 +1,4 @@
-<h1 align="center">CÁC LỆNH CONSOLE HỮU ÍCH</h1>
+<h1 align="center"><img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Counter-Strike_2_29.webp"> CÁC LỆNH CONSOLE HỮU ÍCH</h1>
 
 <h2>LƯU Ý</h2>
 
