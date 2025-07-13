@@ -1,4 +1,4 @@
-<h1 align="center">CẢNH BÁO, RỦI RO KHI MUA TÀI KHOẢN</h1>
+<h1 align="center"><img width="23px" filter="invert:100%" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/shopping-cart.png"> CẢNH BÁO, RỦI RO KHI MUA TÀI KHOẢN</h1>
 
 <h2>Cảnh báo</h2>
 
