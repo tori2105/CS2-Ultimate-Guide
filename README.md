@@ -14,6 +14,13 @@
 ## ⭐ Câu hỏi
 1.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Prime.md">**Khôi phục Prime sau khi tài khoản bị hack**
 2.  <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Banned.md">**Tôi đã bị ban**
+## ⭐ Kiến thức
+1. Skin
+   - Tổng quan về skin
+   - Trao đổi, mua bán skin
+   - Trade up
+   - ***Cờ bạc*** (vâng, đúng nghĩa đen)
+2. Trick
 ## <img width="20px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/faceit.png"> [Faceit](https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitSum.md) (tổng hợp)
 # <img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> STEAM
 ## ⭐ Quản lí tài khoản
