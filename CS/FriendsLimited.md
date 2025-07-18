@@ -4,4 +4,6 @@
 https://steamcommunity.com/my/friends/add
 ```
 
-Kéo xuống dòng <ins>Or send a Quick Invite</ins>
+- Kéo xuống dòng <ins>Or send a Quick Invite</ins>
+<img src="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/IMG/Screenshot%202025-07-19%20061920.png">
+- Copy đường link ở dưới và chia sẻ cho bạn bè
