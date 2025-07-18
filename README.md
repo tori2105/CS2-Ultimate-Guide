@@ -1,5 +1,5 @@
 <p align="center"><img width="200px" height="auto" src="https://raw.githubusercontent.com/tori2105/iOS-App-Scripts/refs/heads/main/resources/bongo.png"></p>
-<h1 align="center">CS2 ULTIMATE GUIDE | CẨM NANG TUYỂN TẬP CS2</h1>
+<h1 align="center">CẨM NANG TỐI THƯỢNG CS2</h1>
 
 > Guide đang trong quá trình phát triển, rất mong nhận được thêm đóng góp của anh em
 # <img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Counter-Strike_2_29.webp"> CS2
@@ -21,6 +21,9 @@
    - Trade up
    - ***Cờ bạc*** (vâng, đúng nghĩa đen)
 2. Trick
+   - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FriendsLimited.md">Cách kết bạn cho tài khoản bị giới hạn (chưa nạp đủ 5$)
+4. Khác
+   - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/HLAE.md">Quay và xuất file mp4/mov chất lượng cao với HLAE
 ## <img width="20px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/faceit.png"> [Faceit](https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitSum.md) (tổng hợp)
 # <img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> STEAM
 ## ⭐ Quản lí tài khoản
