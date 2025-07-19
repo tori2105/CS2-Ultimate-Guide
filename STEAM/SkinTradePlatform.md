@@ -45,6 +45,7 @@ Lưu ý
 6.  [SkinsMonkey](http://skinsmonkey.com)
 ##  Các website/app Việt Nam
 >  Hỗ trợ mua skin trực tiếp bằng tài khoản ngân hàng nội địa
-1.  [vncs2.com](http://vncs2.com) | [Doraemon Store](https://web.facebook.com/DoraemonCSGO)
-2.  [Vnskins](http://vnskins.com)
+1.  [vncs2.com](http://vncs2.com) | [Doraemon Store](https://web.facebook.com/DoraemonCSGO) | **@[Nguyen Van Khang](http://facebook.com/vankhang92bnn)**
+2.  [Vnskins](http://vnskins.com) | **[Vnskins FB](http://facebook.com/vnskins)**
 3.  [skins.vn](http://skins.vn)
+4.  [buyskin.vn](http://buyskin.vn) | **@[Khánh Nam Lê](http://facebook.com/khanh167)**
