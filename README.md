@@ -6,6 +6,14 @@
 ## ⭐ Cần thiết
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Console.md">**Các lệnh console hữu ích**</a>
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/TrainingMap.md">**Các map luyện tập**</a>
+- **Lineup các map** (Season 3)
+  - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Ancient.md">Ancient
+  - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Dust.md">Dust II
+  - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Inferno.md">Inferno
+  - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Mirage.md">Mirage
+  - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Nuke.md">Nuke
+  - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Overpass.md">Overpass
+  - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Train.md">Train
 ## ⭐ Thủ thuật
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Stat.md">**Theo dõi tiến trình chơi game**
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/VACLiveMatch.md">**Xem trận đã huỷ do VAC Live / Xem lịch sử trận đấu Non-Prime**</a>
