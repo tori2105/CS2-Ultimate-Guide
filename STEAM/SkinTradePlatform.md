@@ -34,7 +34,7 @@ Lưu ý
 - Sàn mua bán vật phẩm CS, Dota của Trung Quốc, được sử dụng cực kì phổ biến
 - Để mua vật phẩm trên sàn, bạn cần tài khoản Alipay. Nếu không có, bạn cần liên hệ trader tại các group Facebook ở trên để hỗ trọ mua hàng tại đây
 - Để bán vật phẩm trên sàn, bạn cần giấy tờ tùy thân của công dân Trung Quốc
-- Bản quốc tế (Hỗ trợ mua bằng thẻ Visa/Mastercard, tuy nhiên không phổ biến bằng bản gốc): [buff.market](https://buff.market/)
+- **Bản quốc tế** (*Hỗ trợ mua bằng thẻ Visa/Mastercard, tuy nhiên không phổ biến bằng bản gốc*): [buff.market](https://buff.market/)
 2.  [Bitskin](http://bitskin.com)
 3.  [CSFloat](http://csfloat.com)
 4.  [Tradeit](http://tradeit.gg)
