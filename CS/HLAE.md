@@ -1,7 +1,7 @@
 <h1 align="center"><img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Counter-Strike_2_29.webp"> QUAY VÀ XUẤT FILE MP4/MOV CHẤT LƯỢNG CAO VỚI HLAE</h1>
 
 > - Nguồn: [ThuysKieu](https://steamcommunity.com/id/thuyskieu2207) | [Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3253265356)
-> - Lưu ý: Do HLAE can thiệp trực tiếp đến game nên <ins>có rủi ro bị VAC ban khi sử dụng</ins>. Để sử dụng HLAE an toàn, thêm launch option -insecure trước khi sử dụng để tắt VAC
+> - Lưu ý: Do HLAE can thiệp trực tiếp đến game nên **<ins>có rủi ro bị VAC ban khi sử dụng</ins>**. Để sử dụng HLAE an toàn, thêm launch option -insecure trước khi sử dụng để tắt VAC
 
 Sử dụng HLAE để quay ra clip CS2 với chất lượng và độ phân giải cao, nhưng thực tế khi xuất ra file .tga và sử dụng VirtualDub sẽ mất ra nhiều thời gian và dung lượng ổ đĩa.
 Để giải quyết cách này, nên tải đầu đọc định dạng Ffmpeg cho AFX của HLAE để tối ưu và xử lý nhanh ra file .mp4 và .mov một cách hiểu quả; các bước sau đây vô cùng đơn giản và nhanh gọn.
