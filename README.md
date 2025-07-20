@@ -28,10 +28,11 @@
 # <img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> STEAM
 ## ⭐ Quản lí tài khoản
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/AccountSecure.md">**Bảo mật tài khoản**
-- <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**</a>
-- <a href="https://help.steampowered.com/vi/faqs/view/6891-E071-C9D9-0134">**Steam Guard**</a>
-- <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/Recovery.md">**Khôi phục tài khoản**</a>
-- <a href="https://help.steampowered.com/en/accountdata/ThirdPartyLogins">**Lịch sử đăng nhập website bên thứ 3**</a>
+- <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**
+- <a href="https://help.steampowered.com/vi/faqs/view/6891-E071-C9D9-0134">**Steam Guard**
+- <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/Recovery.md">**Khôi phục tài khoản**
+- <a href="https://github.com/tori2105/CS2-Ultimate-Guide/tree/main/STEAM/ReverseTrade.md">**Khôi phục vật phẩm bị scam/ăn cắp**
+- <a href="https://help.steampowered.com/en/accountdata/ThirdPartyLogins">**Lịch sử đăng nhập website bên thứ 3**
 ## ⭐ Extension hỗ trợ, quản lí
 ### Lưu ý
 > Các trình duyệt trên iOS sẽ không được hỗ trợ (ngoại trừ Orion Browser, nhưng dùng extension trên này cũng phế)
