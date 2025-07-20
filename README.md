@@ -6,7 +6,7 @@
 ## ⭐ Cần thiết
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Console.md">**Các lệnh console hữu ích**</a>
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/TrainingMap.md">**Các map luyện tập**</a>
-- **Lineup các map** (Season 3)
+- **Lineup các map** (Season 3) | `chưa hoàn thiện`
   - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Ancient.md">Ancient
   - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Dust.md">Dust II
   - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/SMOKE/Inferno.md">Inferno
@@ -23,7 +23,7 @@
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Prime.md">**Khôi phục Prime sau khi tài khoản bị hack**
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/Banned.md">**Tôi đã bị ban**
 ## ⭐ Kiến thức
-- Skin
+- Skin) | `chưa hoàn thiện`
    - Tổng quan về skin
    - Trao đổi, mua bán skin
    - Trade up
