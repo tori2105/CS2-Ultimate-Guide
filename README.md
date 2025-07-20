@@ -65,4 +65,4 @@
   -  https://vncs2.com/posts/0b6a0d0a-3ff7-4edb-8c07-bb939d024597
   -  https://vncs2.com/posts/e441bd10-88ea-4ca2-afe5-9e61dc5e715c
   -  https://vncs2.com/posts/c8e20a43-dbbc-42bf-8fff-b60c6d5cc499
--  ~**Danh sách trader tin cậy**~~ (ai cũng uy tín cho đến lúc scam) 
+-  ~~**Danh sách trader tin cậy**~~ (ai cũng uy tín cho đến lúc scam) 
