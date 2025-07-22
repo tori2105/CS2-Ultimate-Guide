@@ -34,6 +34,9 @@
    - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/HLAE.md">Quay và xuất file mp4/mov chất lượng cao với HLAE
 ## <img width="20px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/faceit.png"> [Faceit](https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitSum.md) (tổng hợp)
 # <img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> STEAM
+## ⭐ Tài khoản bị giới hạn (Chưa nạp 5$ wallet)
+- <a href="https://help.steampowered.com/vi/faqs/view/71D3-35C2-AD96-AA3A">Tài khoản bị giới hạn là gì?
+- <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Wallet5.md">Mua wallet 5$
 ## ⭐ Quản lí tài khoản
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/AccountSecure.md">**Bảo mật tài khoản**
 - <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**
