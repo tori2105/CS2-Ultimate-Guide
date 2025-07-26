@@ -1,7 +1,11 @@
 <h1 align="center"><img width="25px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/faceit.png"> FACEIT</h1>
 
 ## Faceit là gì
-- Faceit là nền tảng thi đấu cạnh tranh bên thứ 3, với hệ thống Anticheat cao cấp giúp giảm thiểu lượng người chơi gian lận trong trận đấu. Chưa dừng lại ở đó, Faceit còn tăng cường ngăn chặn các trường hợp smurf, booster, bắn nhiều tài khoản giúp việc thi đấu trở nên trung thực hơn
+- Faceit là nền tảng thi đấu cạnh tranh bên thứ 3, với hệ thống kernel anti-cheat giúp giảm thiểu lượng người chơi gian lận trong trận đấu. Chưa dừng lại ở đó, Faceit còn tăng cường ngăn chặn các trường hợp smurf, booster, bắn nhiều tài khoản giúp việc thi đấu trở nên trung thực hơn
+
+## Faceit có hack không? Cơ chế xử phạt ra sao
+- Không có nền tảng nào an toàn tuyệt đối. Tuy nhiên, Faceit có đội ngũ kiểm duyệt riêng, khi anti-cheat không phát hiện được phần mềm gian lận thì đội ngũ kiểm duyệt sẽ ban người chơi gian lận bằng tay
+- Khi người chơi hack/smurf/booster bị ban, toàn bộ elo sẽ được hoàn trả cho những người chơi bị thiệt hại. Ví dụ, bạn thua 3 game do gặp người chơi X gian lận thì khi người chơi X bị ban bạn sẽ được hoàn trả 100% elo đã mất của 3 trận đó
 
 ## Faceit xếp rank như thế nào
 - Faceit chia các mức rank theo level, từ level 1 - 10 cho đến Challenger, mặc định là level 4 (với CSGO là level 3)
