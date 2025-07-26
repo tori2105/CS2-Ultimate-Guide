@@ -14,13 +14,14 @@
 - Bạn cần sở hữu Prime Status của CS2 *(không cần nếu đã đăng kí Faceit trước 04/2025)*, chơi game tối thiểu 25 giờ và để công khai giờ chơi trên trang cá nhân
 
 ## Tôi bị ban ở CS, có thể chơi Faceit không?
-- Không
+- Không, nếu bạn đã bị ban vĩnh viễn *(VAC, Overwatch ban, Global Cooldown)*. Với Global Cooldown 30 ngày thì không có thông tin cụ thể vì trường hợp bị Global Cooldown 30 ngày rất hiếm
+- Còn nếu bạn bị cooldown tạm thời, bạn vẫn có thể chơi bình thường 
  
 ## Lưu ý, khuyến nghị
 - Ở mức level 3-4 sẽ có nhiều tài khoản mới chơi, vậy nên việc gặp phải smurf, booster là điều không thể tránh khỏi. Mặc dù Faceit không yêu cầu mức elo cụ thể của MM/Premier, vẫn khuyến nghị mức elo Primier từ 12k trở lên mới nên chơi
-- Vì việc cài anticheat của Faceit sẽ cần khởi động lại máy, nên nếu bạn chơi ở net bạn cần phải tìm net có cài sẵn Faceit Anticheat
+- Vì việc cài anticheat của Faceit sẽ cần khởi động lại máy, nên nếu bạn chơi ở net bạn cần phải tìm net có cài sẵn Faceit Anti-cheat
 - Faceit không chấp nhận các hình thức tương tác trái phép với game, nên việc mod skin ở Faceit cũng sẽ dẫn đến ban vĩnh viễn
-- Một tài khoản Steam vĩnh viễn chỉ liên kết với một tài khoản Faceit, không thể thay đổi dưới bất kì hình thức nào
+- Một tài khoản Steam vĩnh viễn chỉ liên kết với một tài khoản Faceit, không thể thay đổi dưới bất kì hình thức nào, kể cả việc xoá tài khoản
 
 ## Extension hỗ trợ
 - **Repeek** | <a href="https://chrome.google.com/webstore/detail/repeek/mokknliiomknodkdmpcellamkopbdmao">Chromium</a> • <a href="https://addons.mozilla.org/en-US/firefox/addon/repeek/">Firefox</a>
