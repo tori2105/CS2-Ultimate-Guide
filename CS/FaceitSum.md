@@ -8,13 +8,13 @@
 - Khi người chơi hack/smurf/booster bị ban, toàn bộ elo sẽ được hoàn trả cho những người chơi bị thiệt hại. Ví dụ, bạn thua 3 game do gặp người chơi X gian lận thì khi người chơi X bị ban bạn sẽ được hoàn trả 100% elo đã mất của 3 trận đó
 
 ## Faceit xếp rank như thế nào
-- Faceit chia các mức rank theo level, từ level 1 - 10 cho đến Challenger, mặc định là level 4 (với CSGO là level 3)
+- Faceit chia các mức rank theo level, từ level 1 - 10 cho đến Challenger, mặc định là level 4 *(với CSGO là level 3)*
 
 ## Làm sao để chơi Faceit
-- Bạn cần sở hữu Prime Status của CS2, chơi game tối thiểu 25 giờ và để công khai giờ chơi trên trang cá nhân
+- Bạn cần sở hữu Prime Status của CS2 *(không cần nếu đã đăng kí Faceit trước 04/2025)*, chơi game tối thiểu 25 giờ và để công khai giờ chơi trên trang cá nhân
 
-## Tôi bị ban CS, có thể chơi Faceit không?
-- Các server của Faceit đều được bảo vệ bởi VAC, nên các tài khoản đã bị ban sẽ không chơi được. Nhưng nếu bạn đang bị cooldown matchmaking thì vẫn có thể chơi bình thường
+## Tôi bị ban ở CS, có thể chơi Faceit không?
+- Không
  
 ## Lưu ý, khuyến nghị
 - Ở mức level 3-4 sẽ có nhiều tài khoản mới chơi, vậy nên việc gặp phải smurf, booster là điều không thể tránh khỏi. Mặc dù Faceit không yêu cầu mức elo cụ thể của MM/Premier, vẫn khuyến nghị mức elo Primier từ 12k trở lên mới nên chơi
