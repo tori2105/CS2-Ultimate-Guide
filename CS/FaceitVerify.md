@@ -20,6 +20,11 @@
 - <ins>**Lưu ý**</ins>: Vui lòng đăng nhập vào tài khoản Faceit tại Faceit support trước khi mở ticket
 <hr>
 
+## Quan ngại về việc bảo mật dữ liệu cá nhân
+- Faceit đảm bảo việc không lưu trữ dữ liệu cá nhân của người chơi xác thực
+- Dữ liệu xác thực của người chơi được lưu trữ bởi bên thứ ba [Daon](https://www.daon.com/about-us/)
+<hr>
+
 ### Có thể nhờ người khác xác thực hộ không? Cơ chế xử phạt
 - Có
 - Hiện tại chưa có thông tin về cơ chế xử phạt do nhờ người khác xác thực hộ. Tuy nhiên, bạn có thể làm không có nghĩa rằng bạn nên làm
