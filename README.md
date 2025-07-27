@@ -34,6 +34,8 @@
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitSum.md">Tổng quan
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitVerify.md">Tài khoản bị bắt buộc xác thực
 - Các lỗi liên quan đến Faceit Anti-cheat
+<hr>
+
 # <img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> STEAM
 ## ⭐ Tài khoản bị giới hạn (Chưa nạp 5$ wallet)
 - <a href="https://help.steampowered.com/vi/faqs/view/71D3-35C2-AD96-AA3A">Tài khoản bị giới hạn là gì?
@@ -61,12 +63,13 @@
 > - Theo dõi elo, stat cá nhân trên Faceit
 > - Lịch sử đấu với người chơi cụ thể
 > - Hiển thị quốc gia, stat trong 30 trận gần đây của các người chơi trong lobby
-
 ## ⭐ Thủ thuật
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Artwork.md">**Artwork dài/Screenshot showcase tự chọn**</a>
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Alias.md">**Đặt biệt danh cho người lạ**</a>
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Shortlink.md">**Đặt dẫn link gọn gàng trên profile**</a>
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/InviAvatar.md">**Avatar trắng**</a>
+- Cashout Steam Wallet
+<hr>
 
 # <img width="23px" filter="invert:100%" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/shopping-cart.png"> Mua bán
 ## ⭐ Mua bán tài khoản
