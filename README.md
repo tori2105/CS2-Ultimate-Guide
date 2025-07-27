@@ -30,7 +30,10 @@
    - ***Cờ bạc*** (vâng, đúng nghĩa đen)
 - Khác
    - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/HLAE.md">Quay và xuất file mp4/mov chất lượng cao với HLAE
-## <img width="20px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/faceit.png"> [Faceit](https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitSum.md) (tổng hợp)
+## <img width="20px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/faceit.png"> Faceit
+- <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitSum.md">Tổng quan
+- <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FaceitVerify.md">Tài khoản bị bắt buộc xác thực
+- Các lỗi liên quan đến Faceit Anti-cheat
 # <img width="23px" style="border-radius: 50%" src="https://raw.githubusercontent.com/tori2105/CS2-Ultimate-Guide/refs/heads/main/IMG/Steam_icon_logo.svg.png"> STEAM
 ## ⭐ Tài khoản bị giới hạn (Chưa nạp 5$ wallet)
 - <a href="https://help.steampowered.com/vi/faqs/view/71D3-35C2-AD96-AA3A">Tài khoản bị giới hạn là gì?
