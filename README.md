@@ -39,6 +39,7 @@
 - <a href="https://help.steampowered.com/vi/faqs/view/71D3-35C2-AD96-AA3A">Tài khoản bị giới hạn là gì?
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/CS/FriendsLimited.md">Cách kết bạn cho tài khoản bị giới hạn (chưa nạp đủ 5$)
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Wallet5.md">Mua wallet 5$
+## ⭐ <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/Profile.md">Trang trí profile Steam
 ## ⭐ Quản lí tài khoản
 - <a href="https://github.com/tori2105/CS2-Ultimate-Guide/blob/main/STEAM/AccountSecure.md">**Bảo mật tài khoản**
 - <a href="https://help.steampowered.com/en/accountdata/SteamLoginHistory">**Kiểm tra lịch sử đăng nhập**
